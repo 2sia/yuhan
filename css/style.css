@@ -1,0 +1,38 @@
+*{margin: 0;}
+html, body {width: 10;}
+
+.logo_form{height: 70px; background-color: #033ca7; text-align: center;}
+
+.logotext_form{color: #fff; font-family: 'Swagger' sans-serif; font-size:  2.5em; font-weight: 100; position: relative; top:5px;}
+.logotext_form p{font-weight: bold;}
+.logotext_form a{text-decoration: none; color:#fff;}
+.menu_form{height: 40px; background-color: #5fa2d9; text-align: center; }
+.menutext_form{display: inline-block; margin: 4px 70px 70px 20px; font-size: 1.1em; font-family: 'Noto Sans KR', sans-serif; font-weight: 400;}
+.menutext_form:first-child{padding-left:10rem; padding-right: 8rem;}
+.menutext_form:nth-child(2){padding-right: 4rem;}
+.menutext_form a{text-decoration: none; font-size: 1.15em;}
+.menutext_form a:link{text-emphasis: none; color: white;}
+.menutext_form a:visited{color:white;}
+.menutext_form a:active{color:white;}
+.menutext_form a:hover{color: #004cda;}
+
+#pr{height: 650px; width:100%; background-size: cover; background-attachment: fixed; overflow: hidden; text-align: center;}
+
+.p1{background-image: url(../img/bg_01.jpg); }
+.p2{background-image: url(../img/bg_02.jpg); }
+.p3{background-image: url(../img/bg_03.jpg); }
+
+.posi{text-align: center; margin-top: 28px;}
+.posi:hover{transform: scale(1.1);}
+.footer_form{height: 45px; background-color: #033ca7;}
+.footertext_form{color: #fff; font-family: 'Noto Sans KR', sans-serif; font-size: 0.8em; font-weight: 100; text-align: center; position: relative; top:35%; text-transform: uppercase;}
+
+.p01_top{background-image: url(../img/bg_01.jpg); height: 595px; background-size: cover;}
+.p01_top .posi{text-align: center; margin-top: 0px;}
+.p01_body{text-align: center;}
+.p02_top{background-image: url(../img/bg_02.jpg); height: 607px; background-size: cover;}
+.p02_top .posi{text-align: center; margin-top: 0px;}
+.p02_body{text-align: center;}
+.p03_top{background-image: url(../img/bg_03.jpg); height: 733px; background-size: cover;}
+.p03_top .posi{text-align: center; margin-top: 0px;}
+.p03_body{text-align: center;}
